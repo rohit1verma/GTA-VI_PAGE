@@ -14,11 +14,6 @@ An immersive and visually stunning landing page inspired by **Grand Theft Auto**
 
 ---
 
-## 📸 Preview
-
-![Landing Page Preview](./preview.png)
-
----
 
 ## 🛠️ Technologies Used
 
